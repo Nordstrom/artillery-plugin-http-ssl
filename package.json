@@ -1,0 +1,32 @@
+{
+  "name": "artillery-plugin-http-ssl",
+  "version": "0.0.1",
+  "description": "load contents of key files at given paths for use in artillery TLS connections",
+  "author": "Erik Erikson",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Nordstrom/artillery-plugin-http-ssl#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nordstrom/artillery-plugin-http-ssl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nordstrom/artillery-plugin-http-ssl/issues"
+  },
+  "keywords": [
+    "ssl",
+    "artillery",
+    "artillery-plugin",
+    "mutual",
+    "auth",
+    "authentication",
+    "mutual auth",
+    "mutual authentication"
+  ],
+  "scripts": {
+    "publish": "np"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "np": "^3.0.4"
+  }
+}
