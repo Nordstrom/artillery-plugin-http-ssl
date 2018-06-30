@@ -15,7 +15,7 @@ config:
     key: <path-path-to-key-file>
     passphrase: <phrase>
   plugins:
-    ssl: {} # empty object
+    http-ssl: {} # empty object
 ```
 4. `artillery run hello.yml`
 
