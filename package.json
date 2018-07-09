@@ -1,6 +1,6 @@
 {
   "name": "artillery-plugin-http-ssl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "load contents of key files at given paths for use in artillery TLS connections",
   "author": "Erik Erikson",
   "license": "Apache-2.0",
